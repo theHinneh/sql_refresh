@@ -7,7 +7,7 @@ is on querying data from the `cd` schema, which includes tables such as `facilit
 
 ## Database Diagram
 
-![Database Diagram](path/to/your/database-diagram.png)
+![Database Diagram](exercises.png)
 
 ## Files
 
