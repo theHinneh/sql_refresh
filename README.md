@@ -15,9 +15,25 @@ is on querying data from the `cd` schema, which includes tables such as `facilit
 
 This file contains basic SQL queries to retrieve and manipulate data from the `cd` schema.
 
-### `joins.sql`
+### `joins_and_subqueries.sql`
 
 This file contains SQL queries that involve joining multiple tables to retrieve complex data sets.
+
+### `modifying_data.sql`
+
+This file contains SQL queries that involve modifying data in the `cd` schema, such as inserting, updating, and deleting records.
+
+### `data.sql`
+
+This file contains SQL queries to create the schema and insert initial data into the `cd` schema tables.
+
+### `exercises.drawio`
+
+This file contains the database diagram in draw.io format.
+
+### `exercises.md`
+
+This file contains markdown documentation for the exercises.
 
 ## Usage
 

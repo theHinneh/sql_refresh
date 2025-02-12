@@ -2,7 +2,9 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/basic.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/joins.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/joins_and_subqueries.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/modifying_data.sql" dialect="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/8f219465-0c0b-494f-9870-a19bd5d366c3/console.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>
